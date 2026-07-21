@@ -282,5 +282,4 @@ Bu kisim zorunlu degildir. Projeyi bitiren ogrenci isterse asagidaki ozellikleri
 - Kategoriye gore listeleme
 - En cok satilan urunu gosterme
 - Gunluk satis raporu
-- CSV veya JSON formatinda veri tutma
-- SQLite veritabanina gecis
+
